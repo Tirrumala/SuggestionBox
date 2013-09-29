@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.beans.modelview;
+package com.opensource.suggestionbox.beans.modelview;
 
 import java.io.Serializable;
 import java.util.Date;

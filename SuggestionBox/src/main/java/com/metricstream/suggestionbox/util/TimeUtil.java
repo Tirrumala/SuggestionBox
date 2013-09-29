@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.util;
+package com.opensource.suggestionbox.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

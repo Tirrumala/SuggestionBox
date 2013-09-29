@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.controller;
+package com.opensource.suggestionbox.controller;
 
 import java.util.Arrays;
 import java.util.Date;
@@ -15,11 +15,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.context.request.WebRequest;
 
-import com.metricstream.suggestionbox.beans.modelview.SuggestionDescriptionUIBean;
-import com.metricstream.suggestionbox.beans.modelview.UserProfileDetailsBean;
-import com.metricstream.suggestionbox.dao.vo.SbDescription;
-import com.metricstream.suggestionbox.service.MySuggestionDescriptionService;
-import com.metricstream.suggestionbox.service.MySuggestionMainService;
+import com.opensource.suggestionbox.beans.modelview.SuggestionDescriptionUIBean;
+import com.opensource.suggestionbox.beans.modelview.UserProfileDetailsBean;
+import com.opensource.suggestionbox.dao.vo.SbDescription;
+import com.opensource.suggestionbox.service.MySuggestionDescriptionService;
+import com.opensource.suggestionbox.service.MySuggestionMainService;
 
 @Controller
 @RequestMapping("/MySuggestionDescription")

@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.controller;
+package com.opensource.suggestionbox.controller;
 
 import java.io.IOException;
 
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.context.request.WebRequest;
 
-import com.metricstream.suggestionbox.service.AttachmentService;
+import com.opensource.suggestionbox.service.AttachmentService;
 
 @Controller
 @RequestMapping("/Attachment")

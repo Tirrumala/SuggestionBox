@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.controller;
+package com.opensource.suggestionbox.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

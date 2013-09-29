@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.service;
+package com.opensource.suggestionbox.service;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -9,10 +9,10 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.google.gson.Gson;
-import com.metricstream.suggestionbox.beans.modelview.SuggestionListBean;
-import com.metricstream.suggestionbox.beans.modelview.SuggestionListWrapperBean;
-import com.metricstream.suggestionbox.dao.model.SbMainHome;
-import com.metricstream.suggestionbox.dao.vo.SbMain;
+import com.opensource.suggestionbox.beans.modelview.SuggestionListBean;
+import com.opensource.suggestionbox.beans.modelview.SuggestionListWrapperBean;
+import com.opensource.suggestionbox.dao.model.SbMainHome;
+import com.opensource.suggestionbox.dao.vo.SbMain;
 
 @Service
 public class SearchService {

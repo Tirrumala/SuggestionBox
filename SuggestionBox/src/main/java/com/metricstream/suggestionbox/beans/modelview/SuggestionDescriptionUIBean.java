@@ -1,6 +1,6 @@
-package com.metricstream.suggestionbox.beans.modelview;
+package com.opensource.suggestionbox.beans.modelview;
 
-import com.metricstream.suggestionbox.service.FileUpload;
+import com.opensource.suggestionbox.service.FileUpload;
 
 public class SuggestionDescriptionUIBean {
 

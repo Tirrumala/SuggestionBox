@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.service;
+package com.opensource.suggestionbox.service;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -9,16 +9,16 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.metricstream.suggestionbox.beans.modelview.SuggestionListBean;
-import com.metricstream.suggestionbox.beans.modelview.SuggestionListWrapperBean;
-import com.metricstream.suggestionbox.constants.ApproveStatus;
-import com.metricstream.suggestionbox.dao.model.SbDescriptionHome;
-import com.metricstream.suggestionbox.dao.model.SbMainHome;
-import com.metricstream.suggestionbox.dao.model.SbUploadFilesHome;
-import com.metricstream.suggestionbox.dao.vo.SbDescription;
-import com.metricstream.suggestionbox.dao.vo.SbMain;
-import com.metricstream.suggestionbox.dao.vo.SbUploadFiles;
-import com.metricstream.suggestionbox.util.TimeUtil;
+import com.opensource.suggestionbox.beans.modelview.SuggestionListBean;
+import com.opensource.suggestionbox.beans.modelview.SuggestionListWrapperBean;
+import com.opensource.suggestionbox.constants.ApproveStatus;
+import com.opensource.suggestionbox.dao.model.SbDescriptionHome;
+import com.opensource.suggestionbox.dao.model.SbMainHome;
+import com.opensource.suggestionbox.dao.model.SbUploadFilesHome;
+import com.opensource.suggestionbox.dao.vo.SbDescription;
+import com.opensource.suggestionbox.dao.vo.SbMain;
+import com.opensource.suggestionbox.dao.vo.SbUploadFiles;
+import com.opensource.suggestionbox.util.TimeUtil;
 
 @Service
 public class MySuggestionMainService {

@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.controller;
+package com.opensource.suggestionbox.controller;
 
 import java.util.Date;
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.metricstream.suggestionbox.beans.modelview.SuggestionListBean;
-import com.metricstream.suggestionbox.service.FileUpload;
-import com.metricstream.suggestionbox.service.MySuggestionMainService;
+import com.opensource.suggestionbox.beans.modelview.SuggestionListBean;
+import com.opensource.suggestionbox.service.FileUpload;
+import com.opensource.suggestionbox.service.MySuggestionMainService;
 
 @Controller
 @RequestMapping("/MySuggestionAdd")

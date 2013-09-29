@@ -1,8 +1,8 @@
-package com.metricstream.suggestionbox.beans.modelview;
+package com.opensource.suggestionbox.beans.modelview;
 
 import java.util.List;
 
-import com.metricstream.suggestionbox.dao.vo.SbDescription;
+import com.opensource.suggestionbox.dao.vo.SbDescription;
 
 public class SuggestionDescriptionBean {
 

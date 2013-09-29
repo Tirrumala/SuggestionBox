@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.dao.model;
+package com.opensource.suggestionbox.dao.model;
 
 // Generated Jul 5, 2013 12:11:16 PM by Hibernate Tools 3.4.0.CR1
 
@@ -18,11 +18,11 @@ import org.hibernate.criterion.Restrictions;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.metricstream.suggestionbox.dao.vo.SbMain;
+import com.opensource.suggestionbox.dao.vo.SbMain;
 
 /**
  * Home object for domain model class SbMain.
- * @see com.metricstream.edge.dao.model.SbMain
+ * @see com.opensource.edge.dao.model.SbMain
  * @author Hibernate Tools
  */
 

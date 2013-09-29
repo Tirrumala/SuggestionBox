@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.service;
+package com.opensource.suggestionbox.service;
 
 public class UserAuthentication {
 

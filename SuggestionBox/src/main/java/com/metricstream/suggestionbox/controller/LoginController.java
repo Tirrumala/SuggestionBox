@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.controller;
+package com.opensource.suggestionbox.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.SessionAttributes;
 import org.springframework.web.context.request.WebRequest;
 
-import com.metricstream.suggestionbox.beans.modelview.UserProfileDetailsBean;
-import com.metricstream.suggestionbox.service.RolesMapping;
-import com.metricstream.suggestionbox.service.UserAuthentication;
+import com.opensource.suggestionbox.beans.modelview.UserProfileDetailsBean;
+import com.opensource.suggestionbox.service.RolesMapping;
+import com.opensource.suggestionbox.service.UserAuthentication;
 
 @Controller
 @RequestMapping("/LoginPage")

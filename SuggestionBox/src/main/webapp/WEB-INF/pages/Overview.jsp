@@ -3,7 +3,7 @@
 	pageEncoding="UTF-8"%>
 
 <jsp:useBean id="userProfileDetailsBean"
-	class="com.metricstream.suggestionbox.beans.modelview.UserProfileDetailsBean"
+	class="com.opensource.suggestionbox.beans.modelview.UserProfileDetailsBean"
 	scope="session" />
 <jsp:setProperty name="userProfileDetailsBean" property="*" />
 
@@ -29,8 +29,8 @@
 		<p>This portal provides you for submitting</p>
 
 		<ul>
-			<li>MetricStream Patents</li>
-			<li>MetricStream Technical Papers as part of EDGE</li>
+			<li>Company Patents</li>
+			<li>Company Technical Papers</li>
 			<li>Suggestions or Creative ideas which benefits the
 				Organization and also Employees</li>
 		</ul>

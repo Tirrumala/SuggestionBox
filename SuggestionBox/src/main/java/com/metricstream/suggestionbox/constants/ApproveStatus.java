@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.constants;
+package com.opensource.suggestionbox.constants;
 
 public interface ApproveStatus {
 

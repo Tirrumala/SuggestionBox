@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.dao.vo;
+package com.opensource.suggestionbox.dao.vo;
 
 // Generated Jul 5, 2013 12:07:07 PM by Hibernate Tools 3.4.0.CR1
 

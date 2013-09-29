@@ -1,4 +1,4 @@
-package com.metricstream.suggestionbox.beans.modelview;
+package com.opensource.suggestionbox.beans.modelview;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;

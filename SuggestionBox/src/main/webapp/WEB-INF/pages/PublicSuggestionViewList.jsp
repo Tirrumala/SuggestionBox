@@ -1,5 +1,5 @@
 <jsp:useBean id="userProfileDetailsBean"
-	class="com.metricstream.suggestionbox.beans.modelview.UserProfileDetailsBean"
+	class="com.opensource.suggestionbox.beans.modelview.UserProfileDetailsBean"
 	scope="session" />
 <jsp:setProperty name="userProfileDetailsBean" property="*" />
 
