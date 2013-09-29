@@ -31,7 +31,7 @@ This application is developed using:
 - JSP (UI render for Spring MVC)
 - HTML, Javascript, css
 - DB SQL schema can work in Oracle or Mysql
-
+- Maven for project build
 
 ###My Note
 I have started this application, to get knowledge of Spring MVC and JSP.
