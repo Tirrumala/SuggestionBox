@@ -37,4 +37,4 @@ This application is developed using:
 I have started this application, to get knowledge of Spring MVC and JSP.
 I have completed only 40% of the application development. 
 It works with basic functionality.
-It is my pleasure, if this Source code can be useful for your needs.
+Hope this Source code can be useful for your needs.
